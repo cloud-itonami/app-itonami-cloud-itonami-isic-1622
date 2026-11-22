@@ -22,8 +22,7 @@ code, following the same langgraph StateGraph + independent Governor
 fleet.
 
 The closest domain analogs are `cloud-itonami-isic-1610` (Sawmilling
-and planing of wood) and `cloud-itonami-isic-1621` (Manufacture of
-veneer sheets and wood-based panels): all three are back-office
+and planing of wood) and `cloud-itonami-isic-1621` (ISIC 1621): all three are back-office
 coordination actors for heavy wood-processing plant equipment with a
 real physical safety dimension. 1622 differs in one structural
 respect that shapes this design: 1610's central process is size
